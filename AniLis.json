@@ -1,0 +1,104 @@
+{
+  "animes": [
+    {
+      "id": 1,
+      "capa": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+      "nome": "Kimetsu no Yaiba",
+      "descricao": "Tanjiro Kamado tem sua vida virada de cabeça para baixo quando sua família é massacrada por um demônio e sua irmã Nezuko se transforma em uma criatura demoníaca.",
+      "lancamento": "2019",
+      "generos": "Ação, Fantasia, Shounen",
+      "idioma": "Legendado / Dublado",
+      "status": "Em Lançamento",
+      "episodes": [
+        {
+          "nome": "Episódio 1: Crueldade",
+          "link": "https://seu-link-aqui.com/kimetsu/ep1.mp4"
+        },
+        {
+          "nome": "Episódio 2: O Treinamento de Sakonji Urokodaki",
+          "link": "https://seu-link-aqui.com/kimetsu/ep2.mp4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "capa": "https://cdn.myanimelist.net/images/anime/1013/142515.jpg",
+      "nome": "Jujutsu Kaisen",
+      "descricao": "Yuji Itadori engole um dedo amaldiçoado de Sukuna para salvar seus amigos e se vê no mundo dos feiticeiros jujutsu.",
+      "lancamento": "2020",
+      "generos": "Ação, Sobrenatural, Fantasia",
+      "idioma": "Legendado / Dublado",
+      "status": "Em Andamento",
+      "episodes": [
+        {
+          "nome": "Episódio 1: Ryomen Sukuna",
+          "link": "https://seu-link-aqui.com/jujutsu/ep1.mp4"
+        },
+        {
+          "nome": "Episódio 2: Para o Meu Propósito",
+          "link": "https://seu-link-aqui.com/jujutsu/ep2.mp4"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "capa": "https://cdn.myanimelist.net/images/anime/1992/134444.jpg",
+      "nome": "Shingeki no Kyojin",
+      "descricao": "A humanidade vive protegida por enormes muralhas para se defender dos Titãs, até que um dia a muralha externa é rompida.",
+      "lancamento": "2013",
+      "generos": "Ação, Drama, Mistério",
+      "idioma": "Legendado / Dublado",
+      "status": "Finalizado",
+      "episodes": [
+        {
+          "nome": "Episódio 1: Para Você, em 2000 Anos",
+          "link": "https://seu-link-aqui.com/snk/ep1.mp4"
+        },
+        {
+          "nome": "Episódio 2: Aquele Dia",
+          "link": "https://seu-link-aqui.com/snk/ep2.mp4"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "capa": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+      "nome": "Fullmetal Alchemist: Brotherhood",
+      "descricao": "Dois irmãos tentam trazer sua mãe de volta através da alquimia, mas sofrem consequências terríveis e partem em busca da Pedra Filosofal.",
+      "lancamento": "2009",
+      "generos": "Ação, Aventura, Fantasia",
+      "idioma": "Legendado / Dublado",
+      "status": "Finalizado",
+      "episodes": [
+        {
+          "nome": "Episódio 1: O Alquimista de Aço",
+          "link": "https://seu-link-aqui.com/fma/ep1.mp4"
+        },
+        {
+          "nome": "Episódio 2: O Dia dos Começos",
+          "link": "https://seu-link-aqui.com/fma/ep2.mp4"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "capa": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+      "nome": "One Punch Man",
+      "descricao": "Saitama é um herói que derrotou tantos inimigos com apenas um soco que agora sofre de tédio profundo por falta de um desafio real.",
+      "lancamento": "2015",
+      "generos": "Ação, Comédia, Paródia",
+      "idioma": "Legendado / Dublado",
+      "status": "Aguardando Nova Temporada",
+      "episodes": [
+        {
+          "nome": "Episódio 1: O Homem Mais Forte",
+          "link": "https://seu-link-aqui.com/opm/ep1.mp4"
+        },
+        {
+          "nome": "Episódio 2: O Ciborgue Solitário",
+          "link": "https://seu-link-aqui.com/opm/ep2.mp4"
+        }
+      ]
+    }
+  ]
+}
