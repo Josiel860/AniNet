@@ -10,8 +10,8 @@
       "idioma": "Legendado / Dublado",
       "status": "Em Lançamento",
       "episodes": [
-        { "nome": "Episódio 1: Crueldade", "link": "https://seu-link-aqui.com/kimetsu/ep1.mp4" },
-        { "nome": "Episódio 2: O Treinamento de Sakonji Urokodaki", "link": "https://seu-link-aqui.com/kimetsu/ep2.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/kimetsu/ep1.mp4" },
+        { "nome": "Episódio 2", "link": "https://seu-link-aqui.com/kimetsu/ep2.mp4" }
       ]
     },
     {
@@ -24,8 +24,8 @@
       "idioma": "Legendado / Dublado",
       "status": "Em Andamento",
       "episodes": [
-        { "nome": "Episódio 1: Ryomen Sukuna", "link": "https://seu-link-aqui.com/jujutsu/ep1.mp4" },
-        { "nome": "Episódio 2: Para o Meu Propósito", "link": "https://seu-link-aqui.com/jujutsu/ep2.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/jujutsu/ep1.mp4" },
+        { "nome": "Episódio 2", "link": "https://seu-link-aqui.com/jujutsu/ep2.mp4" }
       ]
     },
     {
@@ -38,8 +38,8 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        { "nome": "Episódio 1: Para Você, em 2000 Anos", "link": "https://seu-link-aqui.com/snk/ep1.mp4" },
-        { "nome": "Episódio 2: Aquele Dia", "link": "https://seu-link-aqui.com/snk/ep2.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/snk/ep1.mp4" },
+        { "nome": "Episódio 2", "link": "https://seu-link-aqui.com/snk/ep2.mp4" }
       ]
     },
     {
@@ -52,8 +52,8 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        { "nome": "Episódio 1: O Alquimista de Aço", "link": "https://seu-link-aqui.com/fma/ep1.mp4" },
-        { "nome": "Episódio 2: O Dia dos Começos", "link": "https://seu-link-aqui.com/fma/ep2.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/fma/ep1.mp4" },
+        { "nome": "Episódio 2", "link": "https://seu-link-aqui.com/fma/ep2.mp4" }
       ]
     },
     {
@@ -66,8 +66,8 @@
       "idioma": "Legendado / Dublado",
       "status": "Aguardando Nova Temporada",
       "episodes": [
-        { "nome": "Episódio 1: O Homem Mais Forte", "link": "https://seu-link-aqui.com/opm/ep1.mp4" },
-        { "nome": "Episódio 2: O Ciborgue Solitário", "link": "https://seu-link-aqui.com/opm/ep2.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/opm/ep1.mp4" },
+        { "nome": "Episódio 2", "link": "https://seu-link-aqui.com/opm/ep2.mp4" }
       ]
     },
     {
@@ -80,7 +80,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Em Andamento",
       "episodes": [
-        { "nome": "Episódio 1: Izuku Midoriya: Origem", "link": "https://seu-link-aqui.com/mha/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/mha/ep1.mp4" }
       ]
     },
     {
@@ -93,7 +93,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        { "nome": "Episódio 1: Renascimento", "link": "https://seu-link-aqui.com/dn/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/dn/ep1.mp4" }
       ]
     },
     {
@@ -106,7 +106,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        { "nome": "Episódio 1: Entrar! Naruto Uzumaki!", "link": "https://seu-link-aqui.com/naruto/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/naruto/ep1.mp4" }
       ]
     },
     {
@@ -119,7 +119,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Em Andamento",
       "episodes": [
-        { "nome": "Episódio 1: I'm Used to It", "link": "https://seu-link-aqui.com/sololeveling/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/sololeveling/ep1.mp4" }
       ]
     },
     {
@@ -132,7 +132,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Aguardando Nova Temporada",
       "episodes": [
-        { "nome": "Episódio 1: Dog & Chainsaw", "link": "https://seu-link-aqui.com/chainsaw/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/chainsaw/ep1.mp4" }
       ]
     },
     {
@@ -145,7 +145,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        { "nome": "Episódio 1: O Dia em que Virei um Shinigami", "link": "https://seu-link-aqui.com/bleach/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/bleach/ep1.mp4" }
       ]
     },
     {
@@ -158,7 +158,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        { "nome": "Episódio 1: Reborn", "link": "https://seu-link-aqui.com/tr/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/tr/ep1.mp4" }
       ]
     },
     {
@@ -171,7 +171,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Em Andamento",
       "episodes": [
-        { "nome": "Episódio 1: Em outro lugar", "link": "https://seu-link-aqui.com/vinland/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/vinland/ep1.mp4" }
       ]
     },
     {
@@ -184,7 +184,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Em Andamento",
       "episodes": [
-        { "nome": "Episódio 1: Mundo de Pedra", "link": "https://seu-link-aqui.com/drstone/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/drstone/ep1.mp4" }
       ]
     },
     {
@@ -197,7 +197,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        { "nome": "Episódio 1: Destruição e Partida", "link": "https://seu-link-aqui.com/hxh/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/hxh/ep1.mp4" }
       ]
     },
     {
@@ -210,7 +210,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Em Andamento",
       "episodes": [
-        { "nome": "Episódio 1: Operação Strix", "link": "https://seu-link-aqui.com/spy/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/spy/ep1.mp4" }
       ]
     },
     {
@@ -223,7 +223,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Em Andamento",
       "episodes": [
-        { "nome": "Episódio 1: Sonho", "link": "https://seu-link-aqui.com/bluelock/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/bluelock/ep1.mp4" }
       ]
     },
     {
@@ -236,7 +236,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        { "nome": "Episódio 1: Let You Down", "link": "https://seu-link-aqui.com/cyberpunk/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/cyberpunk/ep1.mp4" }
       ]
     },
     {
@@ -249,7 +249,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        { "nome": "Episódio 1: Ponto de Início e Término", "link": "https://seu-link-aqui.com/steinsgate/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/steinsgate/ep1.mp4" }
       ]
     },
     {
@@ -262,7 +262,7 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        { "nome": "Episódio 1: Mash Burnedead e os Músculos", "link": "https://seu-link-aqui.com/mashle/ep1.mp4" }
+        { "nome": "Episódio 1", "link": "https://seu-link-aqui.com/mashle/ep1.mp4" }
       ]
     }
   ]
