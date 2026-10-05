@@ -10,14 +10,8 @@
       "idioma": "Legendado / Dublado",
       "status": "Em Lançamento",
       "episodes": [
-        {
-          "nome": "Episódio 1: Crueldade",
-          "link": "https://seu-link-aqui.com/kimetsu/ep1.mp4"
-        },
-        {
-          "nome": "Episódio 2: O Treinamento de Sakonji Urokodaki",
-          "link": "https://seu-link-aqui.com/kimetsu/ep2.mp4"
-        }
+        { "nome": "Episódio 1: Crueldade", "link": "https://seu-link-aqui.com/kimetsu/ep1.mp4" },
+        { "nome": "Episódio 2: O Treinamento de Sakonji Urokodaki", "link": "https://seu-link-aqui.com/kimetsu/ep2.mp4" }
       ]
     },
     {
@@ -30,14 +24,8 @@
       "idioma": "Legendado / Dublado",
       "status": "Em Andamento",
       "episodes": [
-        {
-          "nome": "Episódio 1: Ryomen Sukuna",
-          "link": "https://seu-link-aqui.com/jujutsu/ep1.mp4"
-        },
-        {
-          "nome": "Episódio 2: Para o Meu Propósito",
-          "link": "https://seu-link-aqui.com/jujutsu/ep2.mp4"
-        }
+        { "nome": "Episódio 1: Ryomen Sukuna", "link": "https://seu-link-aqui.com/jujutsu/ep1.mp4" },
+        { "nome": "Episódio 2: Para o Meu Propósito", "link": "https://seu-link-aqui.com/jujutsu/ep2.mp4" }
       ]
     },
     {
@@ -50,14 +38,8 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        {
-          "nome": "Episódio 1: Para Você, em 2000 Anos",
-          "link": "https://seu-link-aqui.com/snk/ep1.mp4"
-        },
-        {
-          "nome": "Episódio 2: Aquele Dia",
-          "link": "https://seu-link-aqui.com/snk/ep2.mp4"
-        }
+        { "nome": "Episódio 1: Para Você, em 2000 Anos", "link": "https://seu-link-aqui.com/snk/ep1.mp4" },
+        { "nome": "Episódio 2: Aquele Dia", "link": "https://seu-link-aqui.com/snk/ep2.mp4" }
       ]
     },
     {
@@ -70,14 +52,8 @@
       "idioma": "Legendado / Dublado",
       "status": "Finalizado",
       "episodes": [
-        {
-          "nome": "Episódio 1: O Alquimista de Aço",
-          "link": "https://seu-link-aqui.com/fma/ep1.mp4"
-        },
-        {
-          "nome": "Episódio 2: O Dia dos Começos",
-          "link": "https://seu-link-aqui.com/fma/ep2.mp4"
-        }
+        { "nome": "Episódio 1: O Alquimista de Aço", "link": "https://seu-link-aqui.com/fma/ep1.mp4" },
+        { "nome": "Episódio 2: O Dia dos Começos", "link": "https://seu-link-aqui.com/fma/ep2.mp4" }
       ]
     },
     {
@@ -90,14 +66,203 @@
       "idioma": "Legendado / Dublado",
       "status": "Aguardando Nova Temporada",
       "episodes": [
-        {
-          "nome": "Episódio 1: O Homem Mais Forte",
-          "link": "https://seu-link-aqui.com/opm/ep1.mp4"
-        },
-        {
-          "nome": "Episódio 2: O Ciborgue Solitário",
-          "link": "https://seu-link-aqui.com/opm/ep2.mp4"
-        }
+        { "nome": "Episódio 1: O Homem Mais Forte", "link": "https://seu-link-aqui.com/opm/ep1.mp4" },
+        { "nome": "Episódio 2: O Ciborgue Solitário", "link": "https://seu-link-aqui.com/opm/ep2.mp4" }
+      ]
+    },
+    {
+      "id": 6,
+      "capa": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+      "nome": "Boku no Hero Academia",
+      "descricao": "Em um mundo onde a maioria da população possui superpoderes, um garoto sem individualidade sonha em se tornar um herói.",
+      "lancamento": "2016",
+      "generos": "Ação, Super Heróis, Shounen",
+      "idioma": "Legendado / Dublado",
+      "status": "Em Andamento",
+      "episodes": [
+        { "nome": "Episódio 1: Izuku Midoriya: Origem", "link": "https://seu-link-aqui.com/mha/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 7,
+      "capa": "https://cdn.myanimelist.net/images/anime/5/17407.jpg",
+      "nome": "Death Note",
+      "descricao": "Um estudante genial encontra um caderno sobrenatural que mata qualquer pessoa cujo nome seja escrito nele.",
+      "lancamento": "2006",
+      "generos": "Suspense, Sobrenatural, Policial",
+      "idioma": "Legendado / Dublado",
+      "status": "Finalizado",
+      "episodes": [
+        { "nome": "Episódio 1: Renascimento", "link": "https://seu-link-aqui.com/dn/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 8,
+      "capa": "https://cdn.myanimelist.net/images/anime/10/73384.jpg",
+      "nome": "Naruto",
+      "descricao": "Um jovem ninja rejeitado busca reconhecimento e o sonho de se tornar Hokage da sua vila.",
+      "lancamento": "2002",
+      "generos": "Ação, Aventura, Shounen",
+      "idioma": "Legendado / Dublado",
+      "status": "Finalizado",
+      "episodes": [
+        { "nome": "Episódio 1: Entrar! Naruto Uzumaki!", "link": "https://seu-link-aqui.com/naruto/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 9,
+      "capa": "https://cdn.myanimelist.net/images/anime/1908/135439.jpg",
+      "nome": "Solo Leveling",
+      "descricao": "Em um mundo de portões e caçadores, um caçador historicamente fraco ganha uma segunda chance com um sistema misterioso.",
+      "lancamento": "2024",
+      "generos": "Ação, Fantasia, Aventura",
+      "idioma": "Legendado / Dublado",
+      "status": "Em Andamento",
+      "episodes": [
+        { "nome": "Episódio 1: I'm Used to It", "link": "https://seu-link-aqui.com/sololeveling/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 10,
+      "capa": "https://cdn.myanimelist.net/images/anime/1764/126627.jpg",
+      "nome": "Chainsaw Man",
+      "descricao": "Denji vive na miséria fundido com um demônio serra-elétrica, até se juntar a uma organização de caçadores.",
+      "lancamento": "2022",
+      "generos": "Ação, Sobrenatural, Gore",
+      "idioma": "Legendado / Dublado",
+      "status": "Aguardando Nova Temporada",
+      "episodes": [
+        { "nome": "Episódio 1: Dog & Chainsaw", "link": "https://seu-link-aqui.com/chainsaw/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 11,
+      "capa": "https://cdn.myanimelist.net/images/anime/1160/124727.jpg",
+      "nome": "Bleach",
+      "descricao": "Ichigo Kurosaki ganha poderes de Ceifador de Almas e passa a proteger os humanos de espíritos malignos.",
+      "lancamento": "2004",
+      "generos": "Ação, Sobrenatural, Shounen",
+      "idioma": "Legendado / Dublado",
+      "status": "Finalizado",
+      "episodes": [
+        { "nome": "Episódio 1: O Dia em que Virei um Shinigami", "link": "https://seu-link-aqui.com/bleach/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 12,
+      "capa": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+      "nome": "Tokyo Revengers",
+      "descricao": "Takemichi viaja no tempo para salvar sua ex-namorada de uma gangue impiedosa.",
+      "lancamento": "2021",
+      "generos": "Ação, Drama, Sobrenatural",
+      "idioma": "Legendado / Dublado",
+      "status": "Finalizado",
+      "episodes": [
+        { "nome": "Episódio 1: Reborn", "link": "https://seu-link-aqui.com/tr/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 13,
+      "capa": "https://cdn.myanimelist.net/images/anime/1379/135313.jpg",
+      "nome": "Vinland Saga",
+      "descricao": "Thorfinn busca vingança contra o assassino de seu pai em uma jornada épica pelo mar norte.",
+      "lancamento": "2019",
+      "generos": "Ação, Aventura, Drama",
+      "idioma": "Legendado / Dublado",
+      "status": "Em Andamento",
+      "episodes": [
+        { "nome": "Episódio 1: Em outro lugar", "link": "https://seu-link-aqui.com/vinland/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 14,
+      "capa": "https://cdn.myanimelist.net/images/anime/1316/135928.jpg",
+      "nome": "Dr. Stone",
+      "descricao": "Um mundo onde a humanidade inteira foi petrificada e um jovem gênio quer reconstruir a civilização com a ciência.",
+      "lancamento": "2019",
+      "generos": "Aventura, Sci-Fi, Shounen",
+      "idioma": "Legendado / Dublado",
+      "status": "Em Andamento",
+      "episodes": [
+        { "nome": "Episódio 1: Mundo de Pedra", "link": "https://seu-link-aqui.com/drstone/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 15,
+      "capa": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+      "nome": "Hunter x Hunter",
+      "descricao": "Gon Freecss parte em busca de se tornar um Hunter profissional para encontrar seu pai desaparecido.",
+      "lancamento": "2011",
+      "generos": "Ação, Aventura, Fantasia",
+      "idioma": "Legendado / Dublado",
+      "status": "Finalizado",
+      "episodes": [
+        { "nome": "Episódio 1: Destruição e Partida", "link": "https://seu-link-aqui.com/hxh/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 16,
+      "capa": "https://cdn.myanimelist.net/images/anime/1064/111467.jpg",
+      "nome": "Spy x Family",
+      "descricao": "Um espião monta uma família falsa com uma assassina e uma telepática para cumprir uma missão secreta.",
+      "lancamento": "2022",
+      "generos": "Ação, Comédia, Shounen",
+      "idioma": "Legendado / Dublado",
+      "status": "Em Andamento",
+      "episodes": [
+        { "nome": "Episódio 1: Operação Strix", "link": "https://seu-link-aqui.com/spy/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 17,
+      "capa": "https://cdn.myanimelist.net/images/anime/1203/132741.jpg",
+      "nome": "Blue Lock",
+      "descricao": "Um projeto radical para criar o maior artilheiro do mundo reune trezentos jovens atacantes em uma competição feroz.",
+      "lancamento": "2022",
+      "generos": "Esportes, Shounen, Ação",
+      "idioma": "Legendado / Dublado",
+      "status": "Em Andamento",
+      "episodes": [
+        { "nome": "Episódio 1: Sonho", "link": "https://seu-link-aqui.com/bluelock/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 18,
+      "capa": "https://cdn.myanimelist.net/images/anime/1188/133136.jpg",
+      "nome": "Cyberpunk: Edgerunners",
+      "descricao": "Em uma distopia futurista dominada por tecnologia e modificações corporais, um jovem tenta sobreviver como mercenário.",
+      "lancamento": "2022",
+      "generos": "Ação, Sci-Fi, Cyberpunk",
+      "idioma": "Legendado / Dublado",
+      "status": "Finalizado",
+      "episodes": [
+        { "nome": "Episódio 1: Let You Down", "link": "https://seu-link-aqui.com/cyberpunk/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 19,
+      "capa": "https://cdn.myanimelist.net/images/anime/8/27459.jpg",
+      "nome": "Steins;Gate",
+      "descricao": "Um grupo de amigos acidentalmente inventa uma máquina capaz de enviar mensagens para o passado, mudando o rumo da história.",
+      "lancamento": "2011",
+      "generos": "Sci-Fi, Suspense, Drama",
+      "idioma": "Legendado / Dublado",
+      "status": "Finalizado",
+      "episodes": [
+        { "nome": "Episódio 1: Ponto de Início e Término", "link": "https://seu-link-aqui.com/steinsgate/ep1.mp4" }
+      ]
+    },
+    {
+      "id": 20,
+      "capa": "https://cdn.myanimelist.net/images/anime/1288/135061.jpg",
+      "nome": "Mashle: Magic and Muscles",
+      "descricao": "Em um mundo de magia onde os sem-poder são eliminados, um rapaz forte fisicamente resolve resolver tudo na base dos punhos.",
+      "lancamento": "2023",
+      "generos": "Ação, Comédia, Fantasia",
+      "idioma": "Legendado / Dublado",
+      "status": "Finalizado",
+      "episodes": [
+        { "nome": "Episódio 1: Mash Burnedead e os Músculos", "link": "https://seu-link-aqui.com/mashle/ep1.mp4" }
       ]
     }
   ]
